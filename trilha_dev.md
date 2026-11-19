@@ -37,7 +37,7 @@
 
 ### Projetos práticos
 
-- Repositório de anotações pessoais
+- [Repositório de anotações pessoais](https://github.com/pratesddev/git_principais_comandos)
 - Pequeno projeto com histórico limpo e PRs simulados
 
 ---
@@ -59,10 +59,10 @@ Conteúdo essencial:
 
 Projetos práticos (ordem de complexidade):
 
-1. Página de perfil / portfólio simples
-2. Landing page responsiva
+1. [Página de perfil / portfólio simples](https://github.com/pratesddev/fe_pagina_pessoal)
+2. [Landing page responsiva](https://github.com/pratesddev/fe_finans)
 3. Formulário estilizado + tabela de dados
-4. Clone de uma página simples (card de produto, dashboard básico)
+4. [Clone de uma página simples (card de produto, dashboard básico)](https://github.com/pratesddev/fe_spotify)
 
 ---
 
